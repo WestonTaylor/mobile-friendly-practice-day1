@@ -48,3 +48,24 @@ footer {
     color: white;
     padding-top: 43.75px;
 }
+
+@media only screen and (min-width: 480px) {
+    header {
+        background: none;
+        background-color: royalblue;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    header {
+        background: none;
+        background-color: blueviolet;
+    }
+  }
+
+  @media only screen and (min-width: 1028px) {
+    header {
+        background: none;
+        background-color: indigo;
+    }
+  }
