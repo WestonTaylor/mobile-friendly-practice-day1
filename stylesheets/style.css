@@ -1,14 +1,14 @@
 header {
     position: relative;
     box-sizing: border-box;
-    height: 400px;
+    height: 300px;
     width: 100%;
     background: linear-gradient(to bottom, #02D2FD 0%, #001E25 100%);
     text-align: center;
 }
 
 h1 {
-    padding-top: 175px;
+    padding-top: 131.25px;
     color: white;
 }
 
